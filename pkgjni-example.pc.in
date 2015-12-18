@@ -7,7 +7,7 @@ bindir=@bindir@
 localstatedir=@localstatedir@
 classdir=@classdir@
 
-Name: ceres-jni
-Description: Ceres JNI is a Java JNI interface for Ceres ISAM files
-Version: 6.A.0
-URL: https://argility.com
+Name: pkgjni-example
+Description: PKG JNI Example
+Version: 1.0.0
+URL: https://example.com

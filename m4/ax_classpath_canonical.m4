@@ -23,7 +23,7 @@
 #
 # LICENSE
 #
-#   Copyright (c) 2015, Berend De Schouwer <bdschouwer@argility.com>
+#   Copyright (c) 2015, Berend De Schouwer <berend.de.schouwer@gmail.com>
 #
 #   Copying and distribution of this file, with or without modification, are
 #   permitted in any medium without royalty provided the copyright notice

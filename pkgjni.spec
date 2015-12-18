@@ -1,7 +1,7 @@
 Name: pkgjni-example
 Version: 1.0.0
 Release: 1%{?dist}
-License: Example.Com
+License: Public Domain
 Group: Development/Libraries
 Source: %{name}-%{version}.tar.gz
 Summary: JNI Interface to PKG files
@@ -29,7 +29,7 @@ all working
 
 %package devel
 Summary:        Support for compiling pkgjni programs
-License:        Argility
+License:        Public Domain
 Group:          Development/Libraries
 %if 0%{?_isa:1}
 Requires:       %{name}%{_isa} = %{version}-%{release}
@@ -43,7 +43,7 @@ using the example files
 
 %package doc
 Summary:        API documentation pkgjni applications
-License:        Argility
+License:        Public Domain
 Group:          Development/Libraries
 %if 0%{?_isa:1}
 Requires:       %{name}%{_isa} = %{version}-%{release}
