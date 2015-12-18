@@ -1,0 +1,13 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+datadir=@datarootdir@/@PACKAGE@
+bindir=@bindir@
+localstatedir=@localstatedir@
+classdir=@classdir@
+
+Name: ceres-jni
+Description: Ceres JNI is a Java JNI interface for Ceres ISAM files
+Version: 6.A.0
+URL: https://argility.com

@@ -1,0 +1,8 @@
+Name: com/example/pkgjni/
+Specification-Title: pkgjni test classes
+Specification-Version: 0.1.0
+Specification-Vendor: Example.Com
+Implementation-Title: com.example.pkgjni
+Implementation-Version: 0.1.0
+Implementation-Vendor: Example.Com
+Main-Class: com.example.pkgjni.Scratch

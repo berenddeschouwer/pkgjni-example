@@ -1,0 +1,8 @@
+#
+# Where to look for the Pkg JNI .so shared libraries.
+# It's expected to put a directory here, and it will
+# default to $libdir/pkg-jni
+#
+# You may set this to a filename or directory.
+#
+nativeLocations.scratch = @jnidir@
